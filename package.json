@@ -1,0 +1,17 @@
+{
+  "name": "RabbitMQ-NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "consumer":"node consumer.js",
+    "publisher":"node publisher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
